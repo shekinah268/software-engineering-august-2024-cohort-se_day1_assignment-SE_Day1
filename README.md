@@ -17,7 +17,7 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
-
+x
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 
